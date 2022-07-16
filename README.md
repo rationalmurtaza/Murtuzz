@@ -35,5 +35,7 @@ I enjoy doing competitive programming.
 
 ---
 
+<!--
 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Visitor](https://hit.yhype.me/github/profile?user_id=45698122)
+--!>
