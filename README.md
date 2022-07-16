@@ -20,10 +20,6 @@ I enjoy doing competitive programming.
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzz&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
- 
-**Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Visitors](https://hit.yhype.me/github/profile?user_id=45698122)
-
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=murtuzz)  
  
@@ -36,3 +32,8 @@ I enjoy doing competitive programming.
 ---
  
 [![Murtaza github activity graph](https://activity-graph.herokuapp.com/graph?username=murtuzz&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+
+---
+
+**Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Visitor](https://hit.yhype.me/github/profile?user_id=45698122)
