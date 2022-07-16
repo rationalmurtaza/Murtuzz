@@ -12,6 +12,7 @@ I enjoy doing competitive programming.
 
 [![Gmail Badge](https://img.shields.io/badge/-lightwalamurtaza5210@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lightwalamurtaza5210@gmail.com)](mailto:lightwalamurtaza5210@gmail.com)
 
+[Portfolio](https://murtuzz.github.io/Portfolio)
 ---
 
  📶 Stats:<br><br>
