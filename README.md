@@ -8,11 +8,12 @@ I'm not just about code; I'm about impact. I have a keen interest in wealth gene
 I'm also an advocate for clean, maintainable code and am always on the lookout for new challenges that push the boundaries of my capabilities. Competitive programming? Count me in!
 
 🔗 **Connect with me:**
+
 [![Linkedin Badge](https://img.shields.io/badge/-murtuzz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mur-tuzz/)](https://www.linkedin.com/in/mur-tuzz/)
 
 [![Gmail Badge](https://img.shields.io/badge/-lightwalamurtaza5210@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lightwalamurtaza5210@gmail.com)](mailto:lightwalamurtaza5210@gmail.com)
 
-[Portfolio](https://murtuzz.github.io/Portfolio)
+[Portfolio](https://murtafiji.com/)
 ---
 
  📶 Stats:<br><br>
