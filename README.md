@@ -19,7 +19,9 @@
 🚀 Ready for a journey through my career? [Buckle up and view my Resume](https://murtafiji.com/assets/docs/resume/Murtaza_Lightwala_resume.pdf)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtuzz&label=Profile%20views&color=0e75b6&style=flat" alt="murtuzz" /> </p>
+
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/murtuzfabiedude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murtuzfabiedude" height="30" width="40" /></a>
